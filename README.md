@@ -11,17 +11,14 @@ A curated collection of AI prompts for learning and experimentation ✨
 
 This repository contains a carefully selected set of AI prompts designed to help users understand and practice prompt engineering. It aims to optimize AI interactions and explore creative applications. Whether you are new or experienced with AI, this collection provides practical examples to improve your results.
 
-🚀 Importantly, this pack includes prompts tailored for well-known AI models such as **GROK**, **REPLIT**, **DEEPSEEK**, and others, allowing you to experiment across different platforms and leverage their unique capabilities.
+🚀 Importantly, this pack includes prompts tailored for well-known AI models such as **GROK**, **META**, **DEEPSEEK**, **CHATGPT, and others, allowing you to experiment across different platforms and leverage their unique capabilities.
 
 ---
 
 ## ✨ Features
 
 - 💡 Diverse prompts tailored for various AI models and tasks  
-- 🎯 Emphasis on clarity, specificity, and prompt effectiveness  
-- 🛠️ Examples covering text generation, code assistance, reasoning, summarization, and more  
-- 📈 Practical tips for prompt optimization  
-- 🌐 Prompts used by companies like GROK, LLAMA, DEEPSEEK, OpenAI, HuggingFace among others  
+- 🌐 Prompts used by companies like GROK, META, DEEPSEEK, OpenAI, HuggingFace among others  
 
 ---
 
