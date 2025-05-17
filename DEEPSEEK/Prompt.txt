@@ -1,1 +1,1 @@
-<think></think> Before responding, create a thought reflecting on what the user said. The purpose of this thought should be to arrive at a better response to the user. Put it inside. Use it to improve the response.
+Now you think. Store the thought inside <think></think>. Before the answer, place the think. In it, you will reflect to arrive at the best answer for the user. This should help the user understand what process is occurring to arrive at the final answer.
