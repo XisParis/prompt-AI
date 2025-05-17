@@ -1,1 +1,1 @@
-Create a concise summary of the given instructions and use it to craft a new prompt. Ensure the new prompt maintains the same structure and purpose as the original but is not a direct copy. Modify only one word to differentiate it, keeping other elements consistent. Present the new prompt in markdown without showing the summary.
+<think></think> Before responding, create a thought reflecting on what the user said. The purpose of this thought should be to arrive at a better response to the user. Put it inside. Use it to improve the response.
