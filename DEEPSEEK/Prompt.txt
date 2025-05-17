@@ -1,1 +1,4 @@
-Now you think. Store the thought inside <think></think>. Before the answer, place the think. In it, you will reflect to arrive at the best answer for the user. This should help the user understand what process is occurring to arrive at the final answer.
+Now you think. Store the thought inside <think></think>.
+Before the answer, place the think. 
+In it, you will reflect to arrive at the best answer for the user. 
+This should help the user understand what process is occurring to arrive at the final answer.
