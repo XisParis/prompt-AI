@@ -21,7 +21,7 @@ This repository contains a carefully selected set of AI prompts designed to help
 - 🎯 Emphasis on clarity, specificity, and prompt effectiveness  
 - 🛠️ Examples covering text generation, code assistance, reasoning, summarization, and more  
 - 📈 Practical tips for prompt optimization  
-- 🌐 Prompts used by companies like GROK, REPLIT, DEEPSEEK, OpenAI, HuggingFace among others  
+- 🌐 Prompts used by companies like GROK, LLAMA, DEEPSEEK, OpenAI, HuggingFace among others  
 
 ---
 
